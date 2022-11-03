@@ -1,0 +1,15 @@
+C:\Users\KELLYNCODES\Documents\BEZAO\PRACTICE\codeTester\obj\Debug\net6.0\codeTester.csproj.AssemblyReference.cache
+C:\Users\KELLYNCODES\Documents\BEZAO\PRACTICE\codeTester\obj\Debug\net6.0\codeTester.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KELLYNCODES\Documents\BEZAO\PRACTICE\codeTester\obj\Debug\net6.0\codeTester.AssemblyInfoInputs.cache
+C:\Users\KELLYNCODES\Documents\BEZAO\PRACTICE\codeTester\obj\Debug\net6.0\codeTester.AssemblyInfo.cs
+C:\Users\KELLYNCODES\Documents\BEZAO\PRACTICE\codeTester\obj\Debug\net6.0\codeTester.csproj.CoreCompileInputs.cache
+C:\Users\KELLYNCODES\Documents\BEZAO\PRACTICE\codeTester\bin\Debug\net6.0\codeTester.exe
+C:\Users\KELLYNCODES\Documents\BEZAO\PRACTICE\codeTester\bin\Debug\net6.0\codeTester.deps.json
+C:\Users\KELLYNCODES\Documents\BEZAO\PRACTICE\codeTester\bin\Debug\net6.0\codeTester.runtimeconfig.json
+C:\Users\KELLYNCODES\Documents\BEZAO\PRACTICE\codeTester\bin\Debug\net6.0\codeTester.dll
+C:\Users\KELLYNCODES\Documents\BEZAO\PRACTICE\codeTester\bin\Debug\net6.0\codeTester.pdb
+C:\Users\KELLYNCODES\Documents\BEZAO\PRACTICE\codeTester\obj\Debug\net6.0\codeTester.dll
+C:\Users\KELLYNCODES\Documents\BEZAO\PRACTICE\codeTester\obj\Debug\net6.0\refint\codeTester.dll
+C:\Users\KELLYNCODES\Documents\BEZAO\PRACTICE\codeTester\obj\Debug\net6.0\codeTester.pdb
+C:\Users\KELLYNCODES\Documents\BEZAO\PRACTICE\codeTester\obj\Debug\net6.0\codeTester.genruntimeconfig.cache
+C:\Users\KELLYNCODES\Documents\BEZAO\PRACTICE\codeTester\obj\Debug\net6.0\ref\codeTester.dll
